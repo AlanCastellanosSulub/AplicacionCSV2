@@ -1,0 +1,17 @@
+h1{font-weight: 100;
+    font-size: 35px;
+    border-top: 5px solid;
+    text-align: center;}
+    
+body{ align-content: center;
+    text-align: center;}
+
+th,td{ border: thin solid; padding: 10px;}
+
+thead th{ background-color: lawngreen;}
+
+tbody td{ background-color: lightblue;}
+
+tbody th{ background-color: lightcyan;}
+
+table{ margin: 0 auto ; }
